@@ -1,0 +1,11 @@
+# Do not edit - changes here will be overwritten by Copier
+_commit: v1
+_src_path: gh:pydev-guide/pyrepo-copier
+author_email: andre.scholl@unibe.ch
+author_name: André Scholl
+github_username: Andre-Scholl
+mode: tooling
+module_name: python_packaging_as25
+project_name: python-packaging-AS25
+project_short_description: Test for Python packaging.
+
